@@ -1,0 +1,18 @@
+* {
+  font-family: sans-serif;
+  font-size: 18px;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calculator-container {
+  width: 256px;
+  text-align: center;
+  border: 10px solid #101116;
+  background-color: #101116;
+  border-radius: 5px;
+}
